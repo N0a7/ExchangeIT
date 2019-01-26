@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1081147490926",
+    "firebase_url": "https://exchangeitnora.firebaseio.com",
+    "project_id": "exchangeitnora",
+    "storage_bucket": "exchangeitnora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081147490926:android:4eca403d31370641",
+        "android_client_info": {
+          "package_name": "com.example.nora.exchangeitnora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081147490926-567eouureu0nrgt4h3b3fom89shjrf4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nora.exchangeitnora",
+            "certificate_hash": "7e53d55ebdf58f3985db4099eb097c0f37c13374"
+          }
+        },
+        {
+          "client_id": "1081147490926-l2jkal5qoh395jsicejo3jqu4ag6tr12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_9oKWSJ3wJBZ24lu-I-kmGU8p3dhUaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081147490926-l2jkal5qoh395jsicejo3jqu4ag6tr12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
